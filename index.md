@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "My blogs"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my blog page. I'm glad you are here. I plan to talk about so many curiosities about science in an unconventional way...
