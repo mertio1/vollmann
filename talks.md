@@ -1,3 +1,9 @@
+layout: page
+title: "List of Talks"
+permalink: /talks/
+
+
+
 3rd ICTP-SAIFR South American DM Workshop.  Zoom venue (Dec 2020). Theoretical developments on synchrotron searches for dark matter 
 
 Kashiwa DM Symposium 2020.   Zoom venue (Nov 2020). Theoretical developments on synchrotron searches for dark matter in dwarf galaxies
