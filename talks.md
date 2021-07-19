@@ -1,7 +1,10 @@
+---
 layout: page
-title: "List of Talks"
-permalink: /talks/
 
+title: "List of Talks"
+
+permalink: /talks/
+---
 
 
 3rd ICTP-SAIFR South American DM Workshop.  Zoom venue (Dec 2020). Theoretical developments on synchrotron searches for dark matter 
