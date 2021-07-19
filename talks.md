@@ -6,6 +6,15 @@ title: "List of Talks"
 permalink: /talks/
 ---
 
+## Univerity of Tuebingen HEP Seminar (July 2021). 
+Resummation of large electroweak corrections on indirect dark-matter detection observables
+
+LOFAR Magnetism Key Science Projects (MKSP) Annual Meeting 2021 (July 2021). Models and searching strategies for non-thermal diffuse
+emissions in dwarf galaxies and their impact on Magnetic Fields and Dark Matter annihilation/decay
+
+Materia Oscura en Colombia (MOCA) 2021. Zoom venue (June 2021). Improved methods for the search of inverse Compton scattering and synchrotron radiation in dwarf galaxies. The case of annihilating or decaying Dark Matter
+
+Pint of Science Munich 2021. Zoom venue (May 2021). Dark Matter glowing in the dark
 
 3rd ICTP-SAIFR South American DM Workshop.  Zoom venue (Dec 2020). Theoretical developments on synchrotron searches for dark matter 
 
