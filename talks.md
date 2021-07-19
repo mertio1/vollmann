@@ -6,7 +6,7 @@ title: "List of Talks"
 permalink: /talks/
 ---
 
-## Univerity of Tuebingen HEP Seminar (July 2021). 
+# Univerity of Tuebingen HEP Seminar (July 2021). 
 Resummation of large electroweak corrections on indirect dark-matter detection observables
 
 LOFAR Magnetism Key Science Projects (MKSP) Annual Meeting 2021 (July 2021). Models and searching strategies for non-thermal diffuse
