@@ -49,58 +49,58 @@ permalink: /talks/
 *Improved theoretical predictions for indirect (wino) dark matter detection with next-generation gamma-ray telescopes* 
 
 * **Reunión de la Sociedad Venezolana de la Física** -- Nov 2018. Skype venue.
-*Refinando las predicciones para búsquedas de detección indirecta de materia oscura
+*Refinando las predicciones para búsquedas de detección indirecta de materia oscura*
 
 * **SUSY2018 Conference** -- Jul 2018. Barcelona, Spain. 
-*Sudakov log resummation for indirect detection of heavy WIMP dark matter. 
+*Sudakov log resummation for indirect detection of heavy WIMP dark matter*
 
 * **Santander Dark Matter Meeting 2018** -- Jun 2018. Santander, Spain.
-*Resummation for indirect detection of heavy dark matter. 
+*Resummation for indirect detection of heavy dark matter*
 
 * **LMU/TUM Colloquium** -- Jun 2017. Garching. 
-*Low frequency window for searches for indirect detection of Dark Matter. 
+*Low frequency window for searches for indirect detection of Dark Matter*
 
 * **Latin American Webinars in Physics** -- Jun 2016. Zoom venue. 
-*Synchrotron Emission from Dark Matter in Galactic Subhalos. The Smith Cloud
+*Synchrotron Emission from Dark Matter in Galactic Subhalos. The Smith Cloud*
 
 * **PLANCK 2016** -- May 2016. Valencia. 
-*Synchrotron Emission from Dark Matter in Galactic Subhalos. The Smith Cloud
+*Synchrotron Emission from Dark Matter in Galactic Subhalos. The Smith Cloud*
 
 * **Research Area E Science Day Munich** -- Dec 2015. MPA Garching. 
-*Enhancing Effects of Non-Trivial Dark Matter Speed Distributions on Cosmic Gamma-Ray Line Signals
+*Enhancing Effects of Non-Trivial Dark Matter Speed Distributions on Cosmic Gamma-Ray Line Signals*
 
 * **DESY Theory seminar and PhD defense** -- Jun 2015. DESY Hamburg. 
-*Phenomenology of Dark Matter from Radio to Gamma-ray Frequencies
+*Phenomenology of Dark Matter from Radio to Gamma-ray Frequencies*
 
 * **Uni Oslo HEP seminar** -- Apr 2015. Oslo.
-*Enhancing Effects of Non-Trivial Dark Matter Speed Distributions on Cosmic Gamma-Ray Line Signals
+*Enhancing Effects of Non-Trivial Dark Matter Speed Distributions on Cosmic Gamma-Ray Line Signals*
 
 * **PIER Graduate Week at DESY** -- Oct 2014. DESY Hamburg. 
-*Outreach talk on Dark Matter
+*Outreach talk on Dark Matter*
 
 * **DESY Theory Workshop** -- Sep 2014. DESY Hamburg. 
-*Enhanced line signals from annihilating Kaluza-Klein Dark Matter
+*Enhanced line signals from annihilating Kaluza-Klein Dark Matter*
 
 * **Hamburg/Paris/Oxford PhD program Meeting** -- Sep 2014. 
-*The anisotropic dark matter component in the radio sky
+*The anisotropic dark matter component in the radio sky*
 
 * **TeVPA/IDM ASTROPARTICLE Conference** -- Jun 2014. Amsterdam
-*Updated cosmic-ray and radio constraints on light Dark Matter
+*Updated cosmic-ray and radio constraints on light Dark Matter*
 
 * **Hamburg/Paris/Oxford PhD program Meeting** -- Mar 2014. 
-*Update on the PhD thesis: phenomenology of Dark Matter from Radio to Gamma-ray Frequencies
+*Update on the PhD thesis: phenomenology of Dark Matter from Radio to Gamma-ray Frequencies*
 
 * **NAC Meeting** -- Feb 2014. DESY Hamburg. 
-*Enhanced line signals from annihilating Kaluza-Klein Dark Matter
+*Enhanced line signals from annihilating Kaluza-Klein Dark Matter*
 
 * **MITP Workshop** -- Jun 2013. Mainz. 
-*The 130GeV gamma-ray line and generic Dark Matter model-building constraints 
+*The 130GeV gamma-ray line and generic Dark Matter model-building constraints*
 
 * **DPG Frühjahrtagungen** -- Mar 2013. Dresden. 
-*The 130 GeV gamma-ray line and generic Dark Matter model building constraints from continuum gamma rays, radio, and antiproton data
+*The 130 GeV gamma-ray line and generic Dark Matter model building constraints from continuum gamma rays, radio, and antiproton data*
 
 * **Hamburg/Paris/Oxford PhD program meeting** -- Jan 2013. 
-*The 130 GeV gamma-ray line and generic Dark Matter model building constraints from continuum gamma rays, radio, and antiproton data
+*The 130 GeV gamma-ray line and generic Dark Matter model building constraints from continuum gamma rays, radio, and antiproton data*
 
 * **DESY theory workshop** -- Sep 2012. DESY Hamburg. 
-*The 130 GeV gamma-ray line and generic Dark Matter model building constraints from continuum gamma rays, radio, and antiproton data
+*The 130 GeV gamma-ray line and generic Dark Matter model building constraints from continuum gamma rays, radio, and antiproton data*
