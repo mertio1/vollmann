@@ -6,7 +6,7 @@ title: "List of Talks"
 permalink: /talks/
 ---
 
-<!-- ### 2021 -->
+### 2021
 
 * **Univerity of Tuebingen HEP Seminar** -- July 2021. Zoom venue. 
 *Resummation of large electroweak corrections on indirect dark-matter detection observables*
@@ -20,7 +20,7 @@ permalink: /talks/
 * **Pint of Science Munich 2021** -- May 2021. Zoom venue. 
 *Dark Matter glowing in the dark*
 
-<!-- ### 2020 -->
+### 2020
 
 * **3rd ICTP-SAIFR South American DM Workshop** -- Dec 2020. Zoom venue. 
 *Theoretical developments on synchrotron searches for dark matter*
@@ -31,7 +31,7 @@ permalink: /talks/
 * **ASTRON “Astro-lunch”** -- May 2020. Zoom venue. 
 *Radio constraints on dark matter annihilation in Canes Venatici I with LOFAR*
 
-<!-- ### 2019 -->
+### 2019
 
 * **IPMU APEC Seminar** -- Nov 2019. Tokyo. 
 *Resummation of large radiative effects in indirect dark matter detection*
@@ -51,7 +51,7 @@ permalink: /talks/
 * **Uni Freiburg HEP Seminar** -- Jan 2019. Freiburg.
 *Precise predictions for gamma-ray production in dark-matter annihilation*
 
-<!-- ### 2018 -->
+### 2018
 
 * **LMU/TUM Science Week** -- Dec 2018. Kloster Seeon. 
 *Improved theoretical predictions for indirect (wino) dark matter detection with next-generation gamma-ray telescopes* 
@@ -65,12 +65,12 @@ permalink: /talks/
 * **Santander Dark Matter Meeting 2018** -- Jun 2018. Santander, Spain.
 *Resummation for indirect detection of heavy dark matter*
 
-<!-- ### 2017 -->
+### 2017
 
 * **LMU/TUM Colloquium** -- Jun 2017. Garching. 
 *Low frequency window for searches for indirect detection of Dark Matter*
 
-<!-- ### 2016 -->
+### 2016
 
 * **Latin American Webinars in Physics** -- Jun 2016. Zoom venue. 
 *Synchrotron Emission from Dark Matter in Galactic Subhalos. The Smith Cloud*
@@ -78,7 +78,7 @@ permalink: /talks/
 * **PLANCK 2016** -- May 2016. Valencia. 
 *Synchrotron Emission from Dark Matter in Galactic Subhalos. The Smith Cloud*
 
-<!-- ### 2015 -->
+### 2015
 
 * **Research Area E Science Day Munich** -- Dec 2015. MPA Garching. 
 *Enhancing Effects of Non-Trivial Dark Matter Speed Distributions on Cosmic Gamma-Ray Line Signals*
@@ -89,7 +89,7 @@ permalink: /talks/
 * **Uni Oslo HEP seminar** -- Apr 2015. Oslo.
 *Enhancing Effects of Non-Trivial Dark Matter Speed Distributions on Cosmic Gamma-Ray Line Signals*
 
-<!-- ### 2014 -->
+### 2014
 
 * **PIER Graduate Week at DESY** -- Oct 2014. DESY Hamburg. 
 *Outreach talk on Dark Matter*
@@ -109,7 +109,7 @@ permalink: /talks/
 * **NAC Meeting** -- Feb 2014. DESY Hamburg. 
 *Enhanced line signals from annihilating Kaluza-Klein Dark Matter*
 
-<!-- ### 2013 -->
+### 2013
 
 * **MITP Workshop** -- Jun 2013. Mainz. 
 *The 130GeV gamma-ray line and generic Dark Matter model-building constraints*
@@ -120,7 +120,7 @@ permalink: /talks/
 * **Hamburg/Paris/Oxford PhD program meeting** -- Jan 2013. 
 *The 130 GeV gamma-ray line and generic Dark Matter model building constraints from continuum gamma rays, radio, and antiproton data*
 
-<!-- ### 2012 -->
+### 2012
 
 * **DESY theory workshop** -- Sep 2012. DESY Hamburg. 
 *The 130 GeV gamma-ray line and generic Dark Matter model building constraints from continuum gamma rays, radio, and antiproton data*
