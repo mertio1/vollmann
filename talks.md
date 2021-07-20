@@ -48,7 +48,7 @@ permalink: /talks/
 * **LMU/TUM Science Week** -- Dec 2018. Kloster Seeon. 
 *Improved theoretical predictions for indirect (wino) dark matter detection with next-generation gamma-ray telescopes* 
 
-<!-- * **Reunión de la Sociedad Venezolana de la Física** -- Nov 2018. Skype venue.
+* **Reunión de la Sociedad Venezolana de la Física** -- Nov 2018. Skype venue.
 *Refinando las predicciones para búsquedas de detección indirecta de materia oscura*
 
 * **SUSY2018 Conference** -- Jul 2018. Barcelona, Spain. 
@@ -104,4 +104,4 @@ permalink: /talks/
 
 * **DESY theory workshop** -- Sep 2012. DESY Hamburg. 
 *The 130 GeV gamma-ray line and generic Dark Matter model building constraints from continuum gamma rays, radio, and antiproton data*
- -->
+
