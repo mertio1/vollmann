@@ -6,7 +6,7 @@ title: "List of Talks"
 permalink: /talks/
 ---
 
-###2021
+### 2021
 
 * **Univerity of Tuebingen HEP Seminar** -- July 2021. Zoom venue. 
 *Resummation of large electroweak corrections on indirect dark-matter detection observables*
@@ -20,7 +20,7 @@ permalink: /talks/
 * **Pint of Science Munich 2021** -- May 2021. Zoom venue. 
 *Dark Matter glowing in the dark*
 
-###2020
+### 2020
 
 * **3rd ICTP-SAIFR South American DM Workshop** -- Dec 2020. Zoom venue. 
 *Theoretical developments on synchrotron searches for dark matter*
